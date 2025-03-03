@@ -13,13 +13,13 @@
 
 ## 在线体验
 
-访问 [https://你的用户名.github.io/RussiaSquare](https://你的用户名.github.io/RussiaSquare) 即可开始游戏！
+访问 [https://andydenost.github.io/RussiaSquare](https://andydenost.github.io/RussiaSquare) 即可开始游戏！
 
 ## 本地开发
 
 1. 克隆项目
 ```bash
-git clone https://github.com/你的用户名/RussiaSquare.git
+git clone https://github.com/andydenost/RussiaSquare.git
 cd RussiaSquare
 ```
 
